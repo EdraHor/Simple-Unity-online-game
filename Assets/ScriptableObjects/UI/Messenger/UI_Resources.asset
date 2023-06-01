@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac67535626fc0924684e409f57c53525, type: 3}
+  m_Name: UI_Resources
+  m_EditorClassIdentifier: 
+  Chat_GlobalMessage: {fileID: 5845756559515972210, guid: 36f4d565f481e714191614da894e0196, type: 3}
+  Chat_LocalMessage: {fileID: 5922780019295225910, guid: 335f23fd641671a4d9157a51205a84ef, type: 3}
+  Chat_SystemMessage: {fileID: 6372225441065355874, guid: 8b9bd9e640c9c934cba4c2e7ac4be489, type: 3}
